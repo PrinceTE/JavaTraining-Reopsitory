@@ -1,0 +1,9 @@
+package com.te.javabasics.banl;
+
+public class AccountTest {
+
+	public static void main(String[] args) {
+		Account account=new Account(20000);
+		account.withdraw(10000);
+	}
+}

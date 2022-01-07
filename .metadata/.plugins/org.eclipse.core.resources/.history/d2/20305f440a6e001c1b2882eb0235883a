@@ -1,0 +1,15 @@
+package com.te.javabasics.banl;
+
+public class Account {
+double balance;
+public Account(int balance) {
+	this.balance=balance;
+}
+public void withdraw(int amount) {
+	if(amount>=balance) {
+		System.out.println(amount +" " +"withdrawn succesfully");
+	}else {
+		System.out.println("insuficient fund");
+	}
+}
+}

@@ -1,0 +1,7 @@
+package com.te.javabsica.accessmodifier;
+
+public class AccessModifiersClass {
+public static void main(String[] args) {
+	
+}
+}

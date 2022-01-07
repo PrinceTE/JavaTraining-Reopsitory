@@ -1,0 +1,7 @@
+package com.te.javabasics.exception;
+
+public class AgeValidatorException extends RuntimeException {
+
+	
+	
+}

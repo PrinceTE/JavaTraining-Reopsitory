@@ -1,0 +1,5 @@
+package com.teechnoelevate.javabasics;
+
+public class Array {
+
+	int[] array= {34,234,45,23,34,42}
